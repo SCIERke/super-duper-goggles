@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/cautious-succotash/static/css/main.d8022e6c.css",
+    "main.js": "/cautious-succotash/static/js/main.72c36146.js",
+    "static/js/453.ab96642f.chunk.js": "/cautious-succotash/static/js/453.ab96642f.chunk.js",
+    "static/media/it_description.jpg": "/cautious-succotash/static/media/it_description.1abaa694fb5ed7eff954.jpg",
+    "static/media/pcBanner.gif": "/cautious-succotash/static/media/pcBanner.b96f67dae5cd6b0b0c29.gif",
+    "static/media/logo.svg": "/cautious-succotash/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cautious-succotash/index.html",
+    "main.d8022e6c.css.map": "/cautious-succotash/static/css/main.d8022e6c.css.map",
+    "main.72c36146.js.map": "/cautious-succotash/static/js/main.72c36146.js.map",
+    "453.ab96642f.chunk.js.map": "/cautious-succotash/static/js/453.ab96642f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8022e6c.css",
+    "static/js/main.72c36146.js"
+  ]
+}
